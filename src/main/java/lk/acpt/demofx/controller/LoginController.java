@@ -18,5 +18,6 @@ public class LoginController {
         String password = txtPassword.getText();
 
         System.out.println(email+ " ----> "+password);
+        System.out.println("Login Succeess !");
     }
 }
